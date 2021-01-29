@@ -38,9 +38,9 @@ ul li {
 
 .footer {
     margin-top: 15rem;
-    color: var(--fds-gray-70);
+    color: var(--main-gray);
     padding: 2rem 0;
-    border-top: 1px solid var(--fds-gray-70);
+    border-top: 1px solid var(--main-gray);
     align-items: center;
     display: flex;
     justify-content: space-between;

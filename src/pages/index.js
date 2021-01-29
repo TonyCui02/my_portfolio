@@ -11,7 +11,7 @@ export default function Home({ data }) {
     <Layout>
       <section className={styles.profile}>
         <div className={styles.profileText}>
-          <h1>Hi, I'm Tony.</h1>
+          <h1>Hi, I'm <span className="accent">Tony.</span></h1>
           <p>Aspiring full stack engineer and UX designer</p>
         </div>
         <div className={styles.imgWrapper}>
