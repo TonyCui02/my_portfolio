@@ -1,0 +1,34 @@
+.profile h1 {
+  margin: 15px 0;
+}
+
+.imgWrapper {
+  display: relative;
+  height: 250px;
+  width: 250px;
+}
+
+.imgWrapper img {
+  display: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.profile {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  margin: 8vw 0;
+}
+
+.sectionHeading {
+  padding: 15px 0;
+  border-bottom: 1px solid var(--fds-gray-45);
+}
+
+.projectsCards {
+  margin: 4rem 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  grid-gap: 2rem;
+}

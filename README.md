@@ -4,8 +4,13 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  Source code for my personal portfolio
 </h1>
+
+## About
+This repo contains the source code for my personal website built using **Gatsby** and hosted on **Netlify**. I designed most of the components in Fima and coded the frontend using **CSS modules**.
+
+Feel free to take inspiration
 
 ## 🚀 Quick start
 
@@ -27,22 +32,12 @@
     npm run develop
     ```
 
-3.  **Open the code and start customizing!**
+## Built with
 
-    Your site is now running at http://localhost:8000!
+1. React
+2. Gatsby
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+Please make sure to update tests as appropriate.
 
-4.  **Learn more**
-
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
