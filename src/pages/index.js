@@ -27,7 +27,7 @@ export default function Home({ data }) {
         </div>
         <div className={styles.projectsCards}>
           <Card
-            link="https://github.com/TonyCui02/grocer"
+            link="https://github.com/TonyCui02/Find_my_class"
             title="find my class"
             content="a webapp for university students for find their way around campus"
             tech="HTML, CSS, JS"
