@@ -3,6 +3,7 @@ import styles from "../styles/index.module.css";
 import Card from "../components/card";
 import React from "react";
 import LazyLoad from "react-lazyload";
+import profile from '../images/profile.svg'
 
 export default function Home({ data }) {
   console.log(data);
@@ -15,7 +16,7 @@ export default function Home({ data }) {
         </div>
         <div className={styles.imgWrapper}>
           <LazyLoad height={250} once>
-            <img src="./profile.svg" alt="profile" />
+            <img src={profile} alt="profile" />
           </LazyLoad>
         </div>
       </section>
