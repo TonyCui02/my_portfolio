@@ -8,7 +8,7 @@
 </h1>
 
 ## About
-This repo contains the source code for my personal website built using **Gatsby** and hosted on **Netlify**. I designed most of the components in Fima and coded the frontend using **CSS modules**.
+This repo contains the source code for my personal website built using **Gatsby** and hosted on **Netlify**. I designed most of the components in Figma and coded the frontend using **CSS modules**.
 
 Feel free to take inspiration
 
