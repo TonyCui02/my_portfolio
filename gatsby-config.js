@@ -1,11 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: "Tony",
-    description: `Tony Cui's Personal Website`,
-    author: `Tony Cui`,
+    title: `Tony Cui's personal website`,
+    author: {
+      name: `Tony Cui`,
+      summary: `Software Engineering at university of Auckland, aspiring full stack engineer, interested in UI and UX design`,
+    },
+    description: `Hi I'm Tony, this is my website where I sometimes post about my hobbies and things I've learnt. `,
+    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    social: {
+      twitter: `kylemathews`,
+    },
   },
   plugins: [
-    `gatsby-plugin-scroll-reveal`,
     `gatsby-plugin-smoothscroll`,
     "gatsby-plugin-use-dark-mode",
     "gatsby-plugin-sharp",
@@ -21,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `GatsbyJS`,
-        short_name: `GatsbyJS`,
+        name: `Tony Cui's Website`,
+        short_name: `TonyBlog`,
         start_url: `/`,
         background_color: `#6b37bf`,
         theme_color: `#6b37bf`,
