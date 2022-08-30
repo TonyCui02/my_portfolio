@@ -6,8 +6,10 @@ export default function Contact() {
     <Layout>
       <div>
         <h1>Contact</h1>
+        <p>Email:</p>
+        <br></br>
         <p>
-          <a href='/contact'>TonyCui02@gmail.com</a>
+          <a href='mailto: Tonycui02@gmail.com'>TonyCui02@gmail.com</a>
         </p>
       </div>
     </Layout>
