@@ -7,11 +7,22 @@ export default function About() {
         <div>
           <h1>About me</h1>
           <p>
-            A second year software engineering student at the University of Auckland
+            Penultimate year Software Engineering student at the University Of Auckland.
           </p>
+          <br></br>
           <p>
-            Will add more content soon! :)
+            I currently intern at the Auckland Bioengineering institute, responsible for a tour authoring tool that
+            allows tour guides to create and manage virtual 360 tours.
           </p>
+          <br></br>
+          <p>
+            I'm passionate about using an interdisciplinary approach to solving problems, it is particularly exciting to see my solutions
+            make a difference in one's life. 
+          </p>
+          <br></br>
+          <p>
+            When I'm not coding, I enjoy sketching and graphic design. Sometimes I play pop or classical music on my piano too.
+            </p>
         </div>
     </Layout>
   )
