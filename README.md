@@ -8,28 +8,7 @@
 </h1>
 
 ## About
-This repo contains the source code for my personal website built using **Gatsby** and hosted on **Netlify**. I designed most of the components in Figma and coded the frontend using **CSS modules**.
-
-Feel free to take inspiration
-
-## 🚀 Quick start
-
-1.  **Create a Gatsby site.**
-
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
-
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
-
-2.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
-
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
+Source code for my personal website built using **Gatsby** and hosted on **Netlify**.
     ```
 
 ## Built with

@@ -6,6 +6,7 @@ export default function Card(props) {
   return (
     <div className={styles.card}>
       <a href={props.link} target="_blank" rel="noreferrer">
+        <img src={props.image} alt="cover"/>
         <div className={styles.text}>
           <h4>{props.title}</h4>
           <p>{props.content}</p>
