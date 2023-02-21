@@ -7,12 +7,13 @@ export default function About() {
         <div>
           <h1>About me</h1>
           <p>
-            Penultimate year Software Engineering student at the University Of Auckland.
+            Final year Software Engineering student at the University Of Auckland.
           </p>
           <br></br>
           <p>
-            I currently intern at the Auckland Bioengineering institute, responsible for a tour authoring tool that
-            allows tour guides to create and manage virtual 360 tours.
+            I interned at EY as a technology consultant where I gained an understanding of the overall software development lifecycle
+            and learnt to communicate with non technical clients. Prior to this, I was a software engineering intern at EROAD
+            where I deepened my understanding of microservices development in Java and Spring Boot.
           </p>
           <br></br>
           <p>
